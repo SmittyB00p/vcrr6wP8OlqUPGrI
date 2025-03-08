@@ -4,11 +4,11 @@
 
 
 'Flip' image
-![flip training image](https://github.com/SmittyB00p/vcrr6wP8OlqUPGrI/blob/main/0001_000000010.jpg?raw=true)
+![flip training image](images/training/flip/0001_000000010.jpg?raw=true)
 
 
 'Notflip' image
-![notflip training image](https://github.com/SmittyB00p/vcrr6wP8OlqUPGrI/blob/main/0001_00000001.jpg?raw=true)
+![notflip training image](images/training/notflip/0001_00000001.jpg?raw=true)
 
 ## Exploratory Data Analysis
 The images in this dataset were fairly distributed, with the 'flip' images equalling ~48% of the 2989 total images and the 'notflip' images roughly equalling 52%.
