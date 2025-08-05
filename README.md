@@ -27,11 +27,13 @@ Pre-trained ResNet18 and VGG16 models were used to compare to TNet.
 Going forward, the Resnet18 model will be used
 
 ### Text Extraction
-coming soon...
+Using Google's Gemini model we will be able to extract text from uploaded images... Coming Soon!
+
+### Audio Generation
+Using two new text-to-speech (TTS) models - DIA and Sesame - we will generate human like audio with the extracted text... Coming Soon!
 
 ## Setup
 To run this notebook make sure to: 
-* use a Python 3.9.13 kernel
+* use a Python 3.9.13 or later kernel
 * download the requirements.txt file by running in the console `pip install -r requirements.txt`
-* uncomment the first code cell that will allow you to install a few of the necessary packages
 * after the TNet CNN architecture block make sure the `SEED` is set to `14425870739644852099` for reproducibility
