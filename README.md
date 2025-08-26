@@ -24,13 +24,17 @@ Pre-trained ResNet18 and VGG16 models were used to compare to TNet.
 * ResNet18 accuracy = 88% training and 93% validation
 * VGG16 accuracy = 58% training and 67% validation
 
-Going forward, the Resnet18 model will be used
+More experimentation will be needed due to the fact that the pre-trained models are possibly overfitting, but for the time present the VGG16 model looks the best.
 
 ### Text Extraction
-Using Google's Gemini model we will be able to extract text from uploaded images... Coming Soon!
+Using Google's Gemini model we will be able to extract text from uploaded images.
+
+Please look at the text_extraction notebook for further work.
 
 ### Audio Generation
-Using two new text-to-speech (TTS) models - DIA and Sesame - we will generate human like audio with the extracted text... Coming Soon!
+Using two new text-to-speech (TTS) models - DIA and Sesame - we will generate human like audio with the extracted text.
+
+Please look at the dia_audio or sesame_audio notebook for further work.
 
 ## Setup
 To run this notebook make sure to: 
